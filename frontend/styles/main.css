@@ -1,0 +1,370 @@
+.navbar-brand {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 40px;
+    color: #1E1E1E;
+}
+
+.navbar {
+    background: #8F7C5D;
+}
+
+.nav-item {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    
+}
+
+.nav-item .nav-link.active {
+    font-weight: 600;
+    color: #fcbb3a !important;
+    
+}
+
+.nav-link {
+    color: #000000 !important;
+}
+
+.nav-link:hover {
+    color: #fcbb3a !important;
+}
+
+.hero-section {
+    margin-top: 0px;
+    background: #7C6641;
+}
+
+.hero-section p {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 64px;
+    
+    color: #1E1E1E;
+}
+
+.hero-section p {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 24px;
+    color: #1E1E1E;
+}
+
+
+.popular-products {
+    background: #8F7C5D;
+}
+
+.popular-img {
+    position: absolute;
+width: 287px;
+height: 207px;
+left: 418px;
+top: 817px;
+
+
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  }
+  
+  .card img {
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .card-body {
+    padding: 10px;
+  }
+  
+  .card-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    margin-bottom: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0069d9;
+  }
+  
+  .image-and-text img {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  
+  .image-and-text .text {
+    width: px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+  }
+  
+  .text h2 {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 40px;
+    
+    color: #1E1E1E;
+  }
+
+  .text p {
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 24px;
+  }
+  
+  .card-body .text {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 40px;
+    
+    color: #1E1E1E;
+  }
+
+  .shop-now {
+    background-color: #222;
+    color: #fff;
+    font-size: 18px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .shop-now:hover {
+    background-color: #fde400;
+    color: #222;
+    box-shadow: 0px 0px 10px #ccc;
+  }
+  .hero-section2 {
+    margin-top: 0px;
+    background: #7C6641;
+    
+  }
+
+  .hero-section2 p {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 64px;
+    
+    color: #1E1E1E;
+}
+
+.hero-section2 p {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 24px;
+    color: #1E1E1E;
+}
+
+.hero-section2 p {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 24px;
+    color: #1E1E1E;
+}
+
+.component-products {
+    margin-bottom: 20px;
+    background: #fff;
+    border-radius: 8px;
+    padding-bottom: 15px;
+    padding-left: 8px;
+
+    width: 399px;
+    height: 486px;
+    left: 94px;
+    top: 222px;
+}
+
+.products-img {
+    border-radius: 8px;
+    padding: 0.5rem;
+}
+
+.hero-section12 h1{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+
+color: #1E1E1E;
+}
+.hero-section12 p {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+color: #1E1E1E;
+}
+
+.component-products {
+  margin-bottom: 20px;
+  background: white;
+  border-radius: 8px;
+  border: #000000;
+  padding-bottom: 15px;
+}
+
+
+.products-img2 {
+padding: 0.5rem;
+border-radius: 8px 8px;
+background: #f6f6f6;
+}
+
+.product-text {
+  font-family: 'Inter';
+font-weight: 600;
+font-size: 20px;
+}
+
+.footer {
+  margin-top: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #77664b;
+}
+
+.footer h2 {
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 32px;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+
+.footer h5{
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+
+color: #000000;
+}
+
+.footer-small {
+  text-align: center;
+}
+
+.footer-small p{
+  font-family: 'Inter';
+font-weight: 500;
+font-size: 14px;
+
+margin-top: 30px;
+
+color: white;
+background: #7C6641;
+}
+
+.footer-small a{
+  font-weight: 500;
+  font-size: 16px;
+  text-decoration: none;
+
+  color: #fcbb3a;
+}
+
+.nametag{
+  background: #8F7C5D;
+}
+
+.jualan1{
+  background: #8F7C5D;
+  border-color: #8F7C5D;
+}
+
+
+.payment-method {
+  background: #8F7C5D;
+  border-color: #8F7C5D;
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .order-confirmation {
+    width: 100%;
+    text-align: center;
+  }
+  h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  li {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  span {
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: #222;
+    color: #fff;
+    font-size: 18px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #fff;
+    color: #222;
+    box-shadow: 0px 0px 10px #ccc;
+  }
